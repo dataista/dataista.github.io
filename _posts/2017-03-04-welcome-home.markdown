@@ -22,4 +22,4 @@ Hurra.
 Das sind meine Projektvorhaben in der nächsten Zeit:
 - www.metacollect.org
 - Der Wiedereinstieg in R nach längerer Abstinenz
-- R Ladies
+- R Ladies Berlin
