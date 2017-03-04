@@ -6,9 +6,9 @@ permalink: /about/
 
 dataista.
 
-Lab Lead beim [OK Lab Berlin](https://codefor.berlin/)
+Lab Lead beim [OK Lab Berlin](https://codefor.de/berlin/)
 
-Digitale Flüchtlingshilfe @ [metacollect](https://metacollect.org/)
+Digitale Flüchtlingshilfe @ [metacollect](metacollect.org/)
 
 Verbraucherschutz für Geflüchtete bei iRights e.V.
 
@@ -19,14 +19,3 @@ Interessen:
 - Open Data
 - R
 - Integration
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
