@@ -23,21 +23,21 @@ Mit `cd ..`` ggf. wieder in übergeordneten Ordner gehen.
 
 `jekyll serve` bringt den Server zum laufen.
 Die Webseite samt neuen Post kann auf `localhost:4000` angesehen und gesprüft werden.
-Mit `ctrl + c`kann der Server wieder beendet werden.
+Mit `ctrl + c` kann der Server wieder beendet werden.
 
 # 4. Git Commit
 
-1. `git add .``
+1. `git add .`
 2. `git commit -m "Explain the change"`
 
 # 5. Git Status übperprüfen
 
 Mit `git status` überprüfen, ob es Änderungen gab und alles passt.
 Eine ideale sieht zum Beispiel so aus:
->On branch master
->Your branch is ahead of 'origin/master' by 1 commit.
->  (use "git push" to publish your local commits)
->nothing to commit, working tree clean
+>On branch master  
+>Your branch is ahead of 'origin/master' by 1 commit.  
+>  (use "git push" to publish your local commits)  
+>nothing to commit, working tree clean  
 
 # 6. Push und fertig
 
@@ -46,4 +46,4 @@ In einen Browser gehen und <a href="http://dataista.github.io" target="_blank">d
 
 # 7. Gegebenenfalls nach Markdownunterstützung suchen
 
-Zum Beispiel mit diesem <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Cheatsheet</a> 
+Zum Beispiel mit diesem <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Cheatsheet</a>
