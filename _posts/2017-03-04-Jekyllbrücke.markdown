@@ -5,7 +5,7 @@ date:   2017-03-04 23:31:00 +0100
 categories: blog
 tags: jekyll support github
 ---
-Um meiner Vergesslichkeit entgegenzukommen, liefere ich mir hier die wichtigsten Befehle zum erfolgreichen Posten mit jekyll und github.
+Um meiner Vergesslichkeit entgegenzukommen, liefere ich mir hier die wichtigsten Schritte zum erfolgreichen Posten mit jekyll und github.
 
 # 1. Einen Post anlegen
 
@@ -15,9 +15,9 @@ Schreiben. Speichern.
 
 # 2. Sprung in die command line
 
-Commandline öffnen und Directory mit `cd`setzen und darauffolgender Ordnerstruktur setzen.
+Commandline öffnen und Directory mit `cd` setzen und darauffolgender Ordnerstruktur setzen.
 Directory auf Projektebene setzen.
-Mit `cd ..`` ggf. wieder in übergeordneten Ordner gehen.
+Mit `cd ..` ggf. wieder in übergeordneten Ordner gehen.
 
 # 3. Auf lokalem Server ausprobieren
 
@@ -44,6 +44,11 @@ Eine ideale sieht zum Beispiel so aus:
 Mit `git push` wird der commit durchgesetzt.
 In einen Browser gehen und <a href="http://dataista.github.io" target="_blank">die Webseite</a> samt Änderungen besuchen.
 
-# 7. Gegebenenfalls nach Markdownunterstützung suchen
+# 7. Weitere Tipps
 
+## Gegebenenfalls nach Markdownunterstützung suchen
 Zum Beispiel mit diesem <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Cheatsheet</a>
+
+## Links gleich anders setzen.
+Damit sich Links in einem neuen Tab öffnen, dieses Schema nutzen:  
+`<a href="http://dataista.github.io" target="_blank">die Webseite</a>`
