@@ -46,9 +46,9 @@ In einen Browser gehen und <a href="http://dataista.github.io" target="_blank">d
 
 # 7. Weitere Tipps
 
-## Gegebenenfalls nach Markdownunterstützung suchen
+####  Gegebenenfalls nach Markdownunterstützung suchen
 Zum Beispiel mit diesem <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Cheatsheet</a>
 
-## Links gleich anders setzen.
+#### Links gleich anders formatieren
 Damit sich Links in einem neuen Tab öffnen, dieses Schema nutzen:  
 `<a href="http://dataista.github.io" target="_blank">die Webseite</a>`
