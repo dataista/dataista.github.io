@@ -9,7 +9,7 @@ Um meiner Vergesslichkeit entgegenzukommen, liefere ich mir hier die wichtigsten
 
 # 1. Einen Post anlegen
 
-Im Ordner _posts eine Datei mit dem Format YYYY-MM-DD-name-of-post anlegen.
+Im Ordner `_posts` eine Datei mit dem Format `YYYY-MM-DD-name-of-post.markdown` anlegen.
 yml-Header nicht vergessen.
 Schreiben. Speichern.
 
