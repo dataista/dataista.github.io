@@ -4,6 +4,23 @@ title: About
 permalink: /about/
 ---
 
+dataista.
+
+Lab Lead beim [OK Lab Berlin](https://codefor.berlin/)
+
+Digitale Flüchtlingshilfe @ [metacollect](https://metacollect.org/)
+
+Verbraucherschutz für Geflüchtete bei iRights e.V.
+
+Mitglied R Ladies Berlin
+
+
+Interessen:
+- Open Data
+- R
+- Integration
+
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for the Jekyll new theme at:
