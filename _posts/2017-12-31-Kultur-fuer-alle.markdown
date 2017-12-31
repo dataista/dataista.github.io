@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kultur 2017"
-date:   2017-12-24 16:16:00 +0100
+date:   2017-12-31 20:39:00 +0100
 categories: blog
 tags: kultur 2017
 ---
