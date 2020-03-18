@@ -3,7 +3,7 @@ layout: post
 title:  "Ein paar Gedanken zu Civic Tech und Corona"
 date:   2020-03-18
 categories: blog
-tags: corona codeforde zivilgesellschaft engagement
+tags: corona codeforde zivilgesellschaft engagement hackathon
 ---
 # Ein paar Gedanken zu Civic Tech und Corona
 
