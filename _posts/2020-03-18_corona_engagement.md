@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Ein paar Gedanken zu Civic Tech und Corona"
+date:   2020-03-18 11:20:00 +0100
+categories: blog
+tags: corona codeforde zivilgesellschaft engagement
+---
 # Ein paar Gedanken zu Civic Tech und Corona
 
 Im Sommer 2015 kamen sehr viele Menschen nach Europa, um hier Schutz zu finden. Menschen flüchteten schon in den Jahren zuvor, doch im Sommer 2015 änderte vieles. Im Zuge dessen versuchte eine sehr viel größere Menge an Menschen zu unterstützen. Als Mitglied im OK Lab Berlin sah ich in damals die Notwendigkeit, eine Übersicht über digitale Unterstützungsprojekte anzufertigen. Die Projekte waren sehr vielfältig: Es gab Karten und Apps für Geflüchtete, Plattformen zur Organisation von Helfer*innen usw. Sehr viele Menschen saßen an ähnlichen Projekten, in unterschiedlichen Ländern, aber mitunter auch nur 1-2 km voneinander entfernt. Meine Idee war es, diese Menschen zueinander zu bringen, damit sie kooperieren und noch bessere Projekte stemmen können. Es ist jetzt fast unnötig zu erwähnen, dass neben mir auch noch etliche andere die Idee hatten, solche Übersichten zu erstellen. Ich habe mich daraufhin mehrere Jahre ehrenamtlich in der digitalen Flüchtlingshilfe engagiert. 
