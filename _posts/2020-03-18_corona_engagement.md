@@ -14,7 +14,7 @@ Gibt es da draußen schon etwas, was an eure Projektidee ziemlich nah rankommt? 
 Wir müssen mit anderen Projekten und Organisationen kooperieren, die sich sehr viel länger mit den gesellschaftlichen Dimensionen umgehen als ihr. Wir sollten Bescheid geben, welche Expertise wir haben und dass wir bereit sind zu unterstützen.
 ## Wir müssen vorausschauend denken. 
 Welche Themen könnten in 1-2 Monaten relevant sein? Mit wem sollte man jetzt schon reden?
-## Wir dürfen nicht die marginalisierten Gruppen vergessen.
+## Wir dürfen marginalisierten Gruppen nicht vergessen.
 Viele Menschen spüren schon jetzt die Folgen der Virusausbreitung und den Gegenmaßnahmen. Für unseren langfristigen gesellschaftlichen Zusammenhalt ist es sehr wichtig, dass diese Menschen Unterstützung erfahren. 
 ## Wir müssen auf uns aufpassen. Wir dürfen uns nicht langfristig verausgaben.
 Projekte in einer Zeit wie dieser ehrenamtlich zu entwickeln kann sich aufregend und überwältigend anfüllen. Ihr wollt viel Energie reinstecken. Und dann kommt ihr ggf. irgendwann an den Punkt, wie ihr nicht mehr könnt. Das solltet ihr vermeiden. Achtet auf euch und bleibt gesund! 
