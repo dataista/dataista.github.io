@@ -6,13 +6,8 @@ permalink: /about/
 
 dataista.
 
-Lab Lead beim <a href="http://codefor.de/berlin" target="_blank">OK Lab Berlin</a>  
-Digitale Flüchtlingshilfe @ <a href="http://metacollect.org" target="_blank">metacollect</a>  
-Verbraucherschutz für Geflüchtete bei iRights e.V.  
-Mitglied bei den R Ladies Berlin
-
-Interessen:
-- Open Data
-- R
-- Integration
-- Aufs Wasser schauen
+Seit 2014 Mitglied vom <a href="http://codefor.de/berlin" target="_blank">OK Lab Berlin</a>  
+Längere Zeit Digitale Flüchtlingshilfe @ <a href="http://metacollect.org" target="_blank">metacollect</a>  
+Wollte hier mal über ihre Lernfortschritte bei R berichten. 
+Macht stattdessen jetzt was mit Bundespolitik.
+Denkt weiterhin über Open Data und Civic Tech nach.
