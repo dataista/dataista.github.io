@@ -11,7 +11,7 @@ Im Sommer 2015 kamen sehr viele Menschen nach Europa, um hier Schutz zu finden. 
 In den letzten Tagen fühle ich mehr sehr an den Sommer 2015 erinnert. Viele wollen unterstützen und überlegen, wie sie ihr informationstechnisches Wissen einbringen können. Ich bin davon überzeugt: Nicht alles lässt sich durch Tech lösen. Viele Situationen können dennoch deutlich durch digitale Unterstützung verbessert werden, in dem sie Prozesse effizienter oder effektiver gestalten. Ich möchte deshalb einige Gedanken und Fragen in den Raum stellen für all diejenigen, die derzeit ein Projekt zum Umgang mit dem neuen Coronavirus SARS-CoV-2 und dessen gesellschaftlichen Folgen initiieren möchten.
 
 
-## Veröffentlicht nur Daten, für deren Qualität ihr die Verantwortung tragen möchtet.
+## Veröffentlicht nur Daten, für deren Qualität ihr die Verantwortung tragen möchtet. 
 Könnt ihr garantieren, dass von euch bereitgestellte Informationen korrekt und aktuell sind, d.h. eine hohe Datenqualität aufweisen? Falls ihr Informationen bereitstellen wollt, dann tragt ihr für diese auch die Verantwortung.  Aktuell erfahren wir eine höchst nervöse Gesellschaft. Umso wichtiger ist es, dass bereitgestellte Informationen korrekt sind oder Informationslücken transparent kommuniziert werden. Ich persönlich sehe hier die Behörden und ggf. die ausgebildete Presse in der Pflicht, diese Informationen bereitzustellen. 
 ## Zuerst nach dem Problem fragen.
 Was ist das Problem, was wir lösen wollen? Fragt andere Menschen und Organisationen: Welches Problem habt ihr und möchtet ihr lösen? 
